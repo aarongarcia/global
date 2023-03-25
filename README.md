@@ -1,0 +1,2 @@
+# global
+ Random global resources
